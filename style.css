@@ -1,0 +1,90 @@
+body{
+  margin: 0;
+  text-align: center;
+  /* font-size: 100%; */
+/* font-family: 'Merriweather', serif; */
+}
+.intro{
+}
+.profile{
+  width: 25%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+h1{
+  /* line-height: 2; */
+  font-size: 4rem;
+  margin: 50px;
+  color:black;
+  font-family: 'Roboto Mono', monospace;
+}
+h2{
+  font-weight: normal;
+  color:black;
+  font-size: 2.5rem;
+  font-family : 'Montserrat', serif;
+}
+h3{
+  color:#11999E;
+  font-family : 'Montserrat', serif;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-container{
+  background-color: #A7C4BC;
+  padding-top: 100px;
+}
+.middle-container{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #BFD8B8;
+}
+.bottom-container{
+  padding-bottom: 10px;
+  padding-top: 50px;
+  margin: 0;
+  color: black;
+  background-color:#889EAF;
+}
+
+.skill-row{
+  width: 30%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cld1{
+  position:absolute;
+  right : 450px;
+  top : 30px;
+}
+.cld2{
+  position : absolute;
+  bottom : 330px;
+  left : 300px;
+}
+.code-img{
+  width:35%;
+  margin-right: 30px;
+  float: left;
+}
+.resume{
+  width:35%;
+  margin-right: 30px;
+}
+.prob{
+  width:35%;
+  margin-right:30px;
+  float:right;
+}
+
+
+hr{
+  border-style: none;
+   border-top-style: dotted;
+   border-color: grey ;
+   border-width:  10px;
+   width: 11%;
+}
