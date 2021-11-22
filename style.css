@@ -5,6 +5,11 @@ body{
 /* font-family: 'Merriweather', serif; */
 }
 .intro{
+  .intro{
+  width:150%;
+  font-size: 150%;
+  font-style: italic;
+}
 }
 .profile{
   width: 25%;
